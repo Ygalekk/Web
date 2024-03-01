@@ -1,0 +1,39 @@
+body {
+    background-image: url('фонЭС.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+  }
+  b
+  {
+    color:rgb(24, 26, 23);
+    font-size: 25px;
+    line-height: 1;
+  }
+  h1 
+    {
+    text-align: center;
+    color:rgb(24, 26, 23);
+    font-size: 40px;
+    line-height: 1;
+    text-shadow: 0px 5px 6px;
+    }
+    h2 
+    {
+    color:rgb(24, 26, 23);
+    font-size: 40px;
+    line-height: 1;
+    text-shadow: 0px 5px 6px;
+    }
+    h3
+    {
+    color:rgb(24, 26, 23);
+    font-size: 40px;
+    line-height: 0;
+    text-shadow: 0px 5px 6px;
+    }
+    .round
+    {
+        border-radius: 200px; /* Радиус скругления */
+        border: 3px solid rgb(255, 0, 0); /* Параметры рамки */
+        box-shadow: 0 0 7px #666; /* Параметры тени */
+    }
