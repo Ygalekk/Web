@@ -61,11 +61,13 @@
 </ol>
 <h1 style="text-align: center">Решения</h1>
 <h2 style="text-align: center">Файл 1.html</h2>
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>     
+    <style>
+        
 a {
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -281,6 +283,7 @@ body {<br>
 </body>
 </html>
 ```
+
 <h2 style="text-align: center">Файл 2.html</h2>
 <h2 style="text-align: center">Файл 3.html</h2>
 <h2 style="text-align: center">Файл 4.html</h2>
