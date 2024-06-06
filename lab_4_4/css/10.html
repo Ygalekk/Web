@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /* Общие стили */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Стили для мобильных устройств */
+        .container {
+            padding: 20px;
+        }
+
+        .box {
+            background-color: lightgray;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        /* Стили для планшетов */
+        @media (min-width: 768px) {
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+            }
+        }
+
+        /* Стили для настольных компьютеров */
+        @media (min-width: 1024px) {
+            .container {
+                max-width: 960px;
+            }
+
+            .box {
+                display: inline-block;
+                width: 48%;
+                margin-right: 2%;
+                margin-bottom: 20px;
+            }
+
+            .box:last-child {
+                margin-right: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="box">Box 1</div>
+    <div class="box">Box 2</div>
+    <div class="box">Box 3</div>
+    <div class="box">Box 4</div>
+    <div class="box">Box 5</div>
+    <div class="box">Box 6</div>
+</div>
+</body>
+</html>

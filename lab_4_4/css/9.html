@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /* Пример позиционирования элементов */
+        .container {
+            width: 400px;
+            height: 300px;
+            border: 1px solid black;
+            position: relative;
+        }
+
+        .static {
+            position: static;
+            width: 150px;
+            height: 150px;
+            background-color: #8ed28c;
+        }
+
+        .relative {
+            position: relative;
+            top: 50px;
+            left: 50px;
+            width: 150px;
+            height: 150px;
+            background-color: #8cd2cc;
+        }
+
+        .absolute {
+            position: absolute;
+            top: 100px;
+            left: 100px;
+            width: 150px;
+            height: 150px;
+            background-color: #d29c8c;
+        }
+
+        .fixed {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 150px;
+            height: 150px;
+            background-color: tan;
+        }
+
+        .sticky {
+            position: sticky;
+            top: 10px;
+
+        }
+
+        .float-left {
+            float: left;
+            width: 150px;
+            height: 150px;
+            background-color: red;
+            margin-right: 10px;
+        }
+
+        .float-right {
+            float: right;
+            width: 150px;
+            height: 150px;
+            background-color: blue;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+<h1>Пример позиционирования элементов</h1>
+
+<div class="container">
+    <div class="static">Static</div>
+    <div class="relative">Relative</div>
+    <div class="absolute">Absolute</div>
+    <div class="fixed">Fixed</div>
+    <div class="sticky">Sticky</div>
+    <div class="float-left"></div>
+    <div class="float-right"></div>
+</div>
+</body>
+</html>

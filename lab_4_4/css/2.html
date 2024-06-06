@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            gap: 20px;
+        }
+
+        .header {
+            grid-column: 1 / span 12;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+
+        .nav {
+            grid-column: 1 / span 4;
+            padding: 20px;
+            background-color: #f2f2f2;
+        }
+
+        .content {
+            grid-column: 5 / span 8;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        @media (max-width: 768px) {
+            .grid-container {
+                grid-template-columns: repeat(1, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="grid-container">
+    <header class="header">Заголовок</header>
+    <nav class="nav">Навигация</nav>
+    <div class="content">Содержимое</div>
+</div>
+</body>
+</html>

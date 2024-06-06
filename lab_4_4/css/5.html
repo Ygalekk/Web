@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        /* Селектор по элементу */
+        p {
+            color: blue;
+        }
+
+        /* Селектор по классу */
+        .my-class {
+            font-weight: bold;
+        }
+
+        /* Селектор по идентификатору */
+        #my-id {
+            background-color: yellow;
+        }
+
+        /* Селектор по атрибуту */
+        input[type="text"] {
+            border: 1px solid gray;
+        }
+
+        /* Селектор потомка */
+        div p {
+            font-style: italic;
+        }
+
+        /* Селектор дочернего элемента */
+        ul > li {
+            list-style-type: square;
+        }
+
+        /* Селектор псевдокласса */
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Селектор псевдоэлемента */
+        p::first-line {
+            text-transform: uppercase;
+        }
+
+        /* Селектор-брат */
+        h2 + p {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+
+
+<p>Это абзац с применением селектора по элементу.</p>
+
+<p class="my-class">Это абзац с применением селектора по классу.</p>
+
+<div>
+    <p>Это абзац внутри div с применением селектора потомка.</p>
+</div>
+
+<ul>
+    <li>Первый пункт списка</li>
+    <li>Второй пункт списка</li>
+</ul>
+
+<input type="text" placeholder="Это поле ввода с применением селектора по атрибуту">
+
+<a href="#">Ссылка</a>
+
+<h2>Заголовок</h2>
+<p>Это абзац, который следует непосредственно за заголовком второго уровня.</p>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, id.</p>
+</body>
+</html>
