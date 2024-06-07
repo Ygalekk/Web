@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table id="calendar">
+
+</table>
+<script>
+    let month = 4;
+    let year = 2024;
+
+    let table = document.getElementById("calendar");
+
+    let headerRow = table.insertRow();
+    let headerCell = headerRow.insertCell();
+    headerCell.colSpan = 7;
+    headerCell.textContent = new Date(year, month).toLocaleString("default", { month: "long", year: "numeric" });
+    headerCell.classList.add("header");
+
+    let daysOfWeek = ["Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс"];
+    let daysRow = table.insertRow();
+    for (let i = 0; i < daysOfWeek.length; i++) {
+        let daysCell = daysRow.insertCell();
+        daysCell.textContent = daysOfWeek[i];
+        daysCell.classList.add("day-of-week");
+    }
+
+    let firstDay = new Date(year, month, 0).getDay();
+
+    let daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    let currentDay = 1;
+    for (let week = 0; week < 6; week++) {
+        let weekRow = table.insertRow();
+        for (let dayOfWeek = 0; dayOfWeek < 7; dayOfWeek++) {
+            let dayCell = weekRow.insertCell();
+            if (week === 0 && dayOfWeek < firstDay) {
+                dayCell.classList.add("empty");
+            } else if (currentDay > daysInMonth) {
+                dayCell.classList.add("empty");
+            } else {
+                dayCell.textContent = currentDay;
+                dayCell.classList.add("day");
+                currentDay++;
+            }
+        }
+    }
+</script>
+</body>
+</html>
