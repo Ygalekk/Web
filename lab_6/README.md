@@ -4,7 +4,7 @@
 ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ<br>
 «САХАЛИНСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ»</p>
 <br><br><br><br><br><br>
-<p align = "center">Институт естественных наук и техносферной безопасности<br>Кафедра информатики<br>Гусев Владислав Михайлович</p>
+<p align = "center">Институт естественных наук и техносферной безопасности<br>Кафедра информатики<br>Родин Тимур Андреевич</p>
 <br><br><br>
 <p align = "center"><br><strong>Лабораторная работа №6.«CSS»</strong><br>01.03.02 Прикладная математика и информатика</p>
 <br><br><br><br><br><br><br><br><br><br><br><br>
@@ -77,7 +77,7 @@
 </style>
 <body>
 <div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci consequuntur eos, eum, exercitationem fugit in iure laborum necessitatibus numquam odio omnis repellendus voluptas? Consectetur distinctio fugit iste ratione unde.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) — je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб, comme vous dites 1. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur 2, садитесь и рассказывайте.</p>
 </div>
 </body>
 </html>
@@ -99,7 +99,7 @@
 </style>
 <body>
 <div>
-    <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci consequuntur eos, eum, exercitationem fugit in iure laborum necessitatibus numquam odio omnis repellendus voluptas? Consectetur distinctio fugit iste ratione unde.</h2>
+    <h2>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) — je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб, comme vous dites 1. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur 2, садитесь и рассказывайте.</h2>
 </div>
 </body>
 </html>
@@ -111,17 +111,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <meta charset="UTF-8">
+  <title>Title</title>
 </head>
 <style>
-    #test p {
-        color: red;
-    }
+  #test p {
+    color: red;
+  }
 </style>
 <body>
 <div id="test">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci consequuntur eos, eum, exercitationem fugit in iure laborum necessitatibus numquam odio omnis repellendus voluptas? Consectetur distinctio fugit iste ratione unde.</p>
+  <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) — je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб, comme vous dites 1. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur 2, садитесь и рассказывайте.</p>
 </div>
 </body>
 </html>
@@ -130,6 +130,7 @@
 <h2 style="text-align: center">Файл 4.html</h2>
 
 ```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -142,7 +143,7 @@
 </style>
 <body>
 <div id="test">
-    <h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium adipisci consequuntur eos, eum, exercitationem fugit in iure laborum necessitatibus numquam odio omnis repellendus voluptas? Consectetur distinctio fugit iste ratione unde.</h2>
+    <h2>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte. Non, je vous préviens que si vous ne me dites pas que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j'y crois) — je ne vous connais plus, vous n'êtes plus mon ami, vous n'êtes plus мой верный раб, comme vous dites 1. Ну, здравствуйте, здравствуйте. Je vois que je vous fais peur 2, садитесь и рассказывайте.</h2>
 </div>
 </body>
 </html>
@@ -163,12 +164,12 @@
     }
 </style>
 <body>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-<div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
 </body>
 </html>
 ```
@@ -189,12 +190,12 @@
 </style>
 <body>
 <div id="test">
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
-    <div class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
 </div>
 </body>
 </html>
@@ -206,22 +207,22 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
+  <meta charset="UTF-8">
+  <title>Title</title>
 </head>
 <style>
-    p.bbb {
-        color:forestgreen;
-    }
+  p.bbb {
+    color:forestgreen;
+  }
 </style>
 <body>
 <div id="test">
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+  <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -243,12 +244,12 @@
 </style>
 <body>
 <div id="test">
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
 </div>
 </body>
 </html>
@@ -270,12 +271,12 @@
 </style>
 <body>
 <div id="test">
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -297,12 +298,12 @@
 </style>
 <body>
 <div id="test">
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -324,12 +325,12 @@
 </style>
 <body>
 <div id="test">
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <h2 class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
-    <h2 class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</h2>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <h2 class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
 </div>
 </body>
 </html>
@@ -351,12 +352,12 @@
 </style>
 <body>
 <div id="test">
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
-    <p class="xxx">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab autem deleniti dolore inventore libero minus porro, quod tempore unde vitae.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p class="xxx">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -378,9 +379,9 @@
 </style>
 <body>
 <div class="fff">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -402,9 +403,9 @@
 </style>
 <body>
 <div class="fff">
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam assumenda atque autem cupiditate ducimus enim et facere, hic natus odio repellendus saepe? Assumenda dolorem facere minima nam quos, vero voluptate.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+    <p>— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </div>
 </body>
 </html>
@@ -425,10 +426,10 @@
     </style>
 </head>
 <body>
-<p class="fff">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias autem beatae, consequatur deserunt, dolorem dolorum eligendi eum expedita fuga hic itaque maxime nostrum quae quaerat quis quod sequi voluptatibus!</p>
-<p class="fff">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias autem beatae, consequatur deserunt, dolorem dolorum eligendi eum expedita fuga hic itaque maxime nostrum quae quaerat quis quod sequi voluptatibus!</p>
-<p class="fff">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias autem beatae, consequatur deserunt, dolorem dolorum eligendi eum expedita fuga hic itaque maxime nostrum quae quaerat quis quod sequi voluptatibus!</p>
-<p class="fff">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A alias autem beatae, consequatur deserunt, dolorem dolorum eligendi eum expedita fuga hic itaque maxime nostrum quae quaerat quis quod sequi voluptatibus!</p>
+<p class="fff">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+<p class="fff">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+<p class="fff">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
+<p class="fff">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</p>
 </body>
 </html>
 ```
@@ -449,10 +450,10 @@
 </head>
 <body>
 <div class="fff">
-    <div class="bbb">Lorem ipsum dolor.</div>
-    <div class="bbb">Lorem ipsum dolor.</div>
-    <div class="bbb">Lorem ipsum dolor.</div>
-    <div class="bbb">Lorem ipsum dolor.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
+    <div class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</div>
 </div>
 </body>
 </html>
@@ -474,11 +475,11 @@
 </head>
 <body>
 <div class="fff">
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque beatae culpa cumque, cupiditate dignissimos expedita facere itaque, labore laboriosam natus nemo non provident quas reprehenderit, sint veritatis voluptate voluptatibus.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque beatae culpa cumque, cupiditate dignissimos expedita facere itaque, labore laboriosam natus nemo non provident quas reprehenderit, sint veritatis voluptate voluptatibus.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque beatae culpa cumque, cupiditate dignissimos expedita facere itaque, labore laboriosam natus nemo non provident quas reprehenderit, sint veritatis voluptate voluptatibus.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque beatae culpa cumque, cupiditate dignissimos expedita facere itaque, labore laboriosam natus nemo non provident quas reprehenderit, sint veritatis voluptate voluptatibus.</h2>
-    <h2 class="bbb">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque beatae culpa cumque, cupiditate dignissimos expedita facere itaque, labore laboriosam natus nemo non provident quas reprehenderit, sint veritatis voluptate voluptatibus.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
+    <h2 class="bbb">— Eh bien, mon prince. Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.</h2>
 </div>
 </body>
 </html>
@@ -553,16 +554,16 @@
     <title>Title</title>
     <style>
         #test a.www {
-            color: purple;
+            color: rgb(43, 255, 0);
             text-decoration: dashed;
         }
 
         #test a.www:visited {
-            color: green;
+            color: rgb(47, 0, 255);
         }
 
         #test a.www:hover {
-            color: red;
+            color: rgb(238, 255, 0);
             text-decoration: underline;
         }
     </style>
@@ -587,16 +588,16 @@
     <title>Title</title>
     <style>
         .eee a.www {
-            color: purple;
+            color: rgb(43, 255, 0);
             text-decoration: dashed;
         }
 
         .eee a.www:visited {
-            color: green;
+            color: rgb(47, 0, 255);
         }
 
         .eee a.www:hover {
-            color: red;
+            color: rgb(238, 255, 0);
             text-decoration: underline;
         }
     </style>
@@ -882,210 +883,5 @@ function maskify(cc) {
     return cc.slice(0,-4).replace(/./gi, '#') + cc.slice(-4)
 }
 ```
-
-
-<h1 align = "center">Результат HTML</h1>
-
-<ol>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Придумайте селектор, который выберет абзацы &lt;p&gt; внутри дивов &lt;div&gt;.</div>
-        <img height="300px" width="400px" src="report/1.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Придумайте селектор, который выберет все &lt;h2&gt; внутри дивов &lt;div&gt;.</div>
-        <img height="100px" width="400px" src="report/2.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Придумайте селектор, который выберет все абзацы &lt;p&gt; из элемента с id=test.</div>
-        <img height="100px" width="400px" src="report/3.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Придумайте селектор, который выберет все &lt;h2&gt; из элемента с id=test.</div>
-        <img height="100px" width="400px" src="report/4.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все элементы с классом bbb.</div>
-        <img height="100px" width="400px" src="report/5.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все элементы с классом bbb из элемента с id=test.</div>
-        <img height="100px" width="400px" src="report/6.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; с классом bbb.</div>
-        <img height="100px" width="400px" src="report/7.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div> Выберите все &lt;h2&gt; с классом bbb.</div>
-        <img height="100px" width="400px" src="report/8.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; с классом bbb из элемента с id=test.</div>
-        <img height="100px" width="400px" src="report/9.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все элементы с классом bbb и элементы с классом xxx одновременно.</div>
-        <img height="100px" width="400px" src="report/10.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; с классом bbb и &lt;h2&gt; с классом xxx одновременно.</div>
-        <img height="100px" width="400px" src="report/11.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; с классом bbb из id=test и все абзацы &lt;p&gt; с классом xxx из id=test одновременно.</div>
-        <img height="100px" width="400px" src="report/12.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все элементы из класса fff.</div>
-        <img height="100px" width="400px" src="report/13.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; из класса fff.</div>
-        <img height="100px" width="400px" src="report/14.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все абзацы &lt;p&gt; с классом fff.</div>
-        <img height="100px" width="700px" src="report/15.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все элементы с классом bbb из класса fff.</div>
-        <img height="100px" width="700px" src="report/16.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Выберите все &lt;h2&gt; с классом bbb из класса fff.</div>
-        <img height="100px" width="400px" src="report/17.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Сделайте селектор, который выберет все ссылки из id=test, с состояния link и visited сделайте неподчеркнутыми и красными, а состояние hover - подчеркнутым и голубым.</div>
-        <img height="150px" width="200px" src="report/18.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Сделайте селектор, который выберет все ссылки с классом www, состояния link и visited сделайте подчеркнутыми и голубыми, а состояние hover - неподчеркнутым.</div>
-        <img height="100px" width="400px" src="report/19.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Сделайте селектор, который выберет все ссылки из id=test с классом www. Цвета состояний выберите самостоятельно.</div>
-        <img height="100px" width="700px" src="report/20.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Сделайте селектор, который выберет все ссылки из class=eee с классом www. Цвета состояний выберите самостоятельно.</div>
-        <img height="100px" width="400px" src="report/21.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div> Повторите страницу по данному по образцу:</div>
-        <img height="200px" width="200px" src="report/22.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Повторите страницу по данному по образцу:</div>
-        <img height="100px" width="400px" src="report/23.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Повторите страницу по данному по образцу:</div>
-        <img height="150px" width="400px" src="report/24.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Повторите страницу по данному по образцу:</div>
-        <img height="150px" width="400px" src="report/25.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Повторите страницу по данному по образцу:</div>
-        <img height="150px" width="400px" src="report/26.png">
-    </div>
-  </li>
-  <li>
-    <div style="display: flex; flex-direction: column">
-        <div>Повторите страницу по данному по образцу:</div>
-        <img height="150px" width="400px" src="report/27.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/555de49a04b7d1c13c00000e</div>
-        <img height="150px" width="400px" src="report/28.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/588453ea56daa4af920000ca</div>
-        <img height="150px" width="400px" src="report/29.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/55e9529cbdc3b29d8c000016</div>
-        <img height="150px" width="400px" src="report/30.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/55968ab32cf633c3f8000008</div>
-        <img height="150px" width="400px" src="report/31.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/55ee3ebff71e82a30000006a</div>
-        <img height="150px" width="400px" src="report/32.png">
-    </div>
-  </li>
-<li>
-    <div style="display: flex; flex-direction: column">
-        <div>Решить задачу на сайте https://www.codewars.com/kata/5412509bd436bd33920011bc</div>
-        <img height="150px" width="400px" src="report/33.png">
-    </div>
-  </li>
-</ol>
-
 <h1 align = "center">Вывод</h1>
 <p>В ходе выполнения лабораторной работы по CSS были рассмотрены различные селекторы, которые позволяют выбирать и стилизовать определенные элементы на веб-странице.</p>
