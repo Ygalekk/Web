@@ -60,7 +60,7 @@
   <li>Установите шрифт размером 18 пикселей для всех заголовков на странице.</li>
 </ol>
 <h1 style="text-align: center">Решения</h1>
-<h2 style="text-align: center">Файл 1.html</h2>
+<h2 style="text-align: center">1-12,14,16-25.html</h2>
 
 ```html
 <!DOCTYPE html>
@@ -284,10 +284,325 @@ body {<br>
 </html>
 ```
 
-<h2 style="text-align: center">Файл 2.html</h2>
-<h2 style="text-align: center">Файл 3.html</h2>
-<h2 style="text-align: center">Файл 4.html</h2>
-<h2 style="text-align: center">Файл 5.html</h2>
-<h2 style="text-align: center">Файл 6.html</h2>
+<h2 style="text-align: center">13.html</h2>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .block {
+            width: 100px;
+            height: 100px;
+            background-color: green;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="block">1</div>
+    <div class="block">2</div>
+    <div class="block">3</div>
+    <div class="block">4</div>
+    <div class="block">5</div>
+    <div class="block">6</div>
+</div>
+</body>
+</html>
+```
+<h2 style="text-align: center">15.html</h2>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Форма регистрации</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            width: 300px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #e99c9c;
+            border-radius: 5px;
+        }
+
+        .container h2 {
+            text-align: center;
+        }
+
+        .container label,
+        .container input {
+            display: block;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+
+        .container input[type="text"],
+        .container input[type="email"],
+        .container input[type="password"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .container button {
+            width: 100%;
+            padding: 10px;
+            background-color: #000000;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>Регистрация</h2>
+    <form>
+        <label for="username">Имя пользователя:</label>
+        <input type="text" id="username" name="username" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password">Пароль:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button type="submit">Зарегистрироваться</button>
+    </form>
+</div>
+</body>
+</html>
+```
+<h2 style="text-align: center">26-34.html</h2>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .box {
+            width: 300px;
+            height: 200px;
+            background-color: #f2f2f2;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #45a049;
+        }
+        .element {
+            width: 300px;
+            height: 200px;
+            background-image: url('https://гипермаркетпраздника.рф/wa-data/public/shop/products/33/24/22433/images/20434/20434.970.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        form {
+        width: 300px;
+        margin: 0 auto;
+      }
+
+      input[type="text"],
+      input[type="submit"] {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+      }
+      input[type="text"] {
+            outline: 2px solid #4CAF50;
+        }
+      input[type="submit"] {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #45a049;
+      }
+      .container {
+            width: 300px;
+            height: 200px;
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+        .menu {
+            position: relative;
+            display: inline-block;
+        }
+
+        .menu-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+            padding: 12px 16px;
+            z-index: 1;
+        }
+
+        .menu:hover .menu-content {
+            display: flex;
+            flex-direction: column;
+        }
+        .shadow-text {
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    (26)
+<div class="box">Да да да да да да да да да</div>
+(27)
+<table>
+    <tr>
+        <th>Заголовок 1</th>
+        <th>Заголовок 2</th>
+    </tr>
+    <tr>
+        <td>Ячейка 1</td>
+        <td>Ячейка 2</td>
+    </tr>
+    <tr>
+        <td>Ячейка 3</td>
+        <td>Ячейка 4</td>
+    </tr>
+    <tr>
+        <td>Ячейка 5</td>
+        <td>Ячейка 6</td>
+    </tr>
+</table>
+<br>
+(28)
+<br>
+<button class="button">Да</button>
+<br>
+(29)
+<div class="element"></div>
+<br>
+(30-31)
+<input type="text" placeholder="Введите текст">
+  <input type="submit" value="Отправить">
+  <br>
+  (32-33)
+<div class="container">
+    <p>Текст внутри блока</p>
+    <div class="menu">
+        <button>Меню</button>
+        <div class="menu-content">
+            <a href="#">Пункт меню 1</a>
+            <a href="#">Пункт меню 2</a>
+            <a href="#">Пункт меню 3</a>
+        </div>
+    </div>
+</div>
+<br>
+  (34)
+  <h1 class="shadow-text">Да</h1>
+  <br>
+</div>
+</body>
+</html>
+```
+<h2 style="text-align: center">35.html</h2>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .fade-in {
+            opacity: 0;
+            animation: fade-in-animation 1s forwards;
+        }
+
+        @keyframes fade-in-animation {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="fade-in">
+    <h1>Даааа...</h1>
+</div>
+</body>
+</html>
+```
+<h2 style="text-align: center">36.html</h2>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        h1, h2, h3, h4, h5, h6 {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+<h1>Заголовок 1</h1>
+<h2>Заголовок 2</h2>
+<h3>Заголовок 3</h3>
+<h4>Заголовок 4</h4>
+<h5>Заголовок 5</h5>
+<h6>Заголовок 6</h6>
+</body>
+</html>
+```
 <h1 align = "center">Вывод</h1>
 <p>По итогу проделанной лабораторной работы, были созданы 36 страниц по заданиям с использованием HTML, CSS</p>
