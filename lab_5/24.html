@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function chromosomeCheck(sperm) {
+        let message = "Congratulations! You're going to have a ";
+        if (sperm.match(/Y/gi)?.length > 0) {
+            return message + 'son.';
+        }
+        return message + 'daughter.';
+    }
+</script>
+</body>
+</html>

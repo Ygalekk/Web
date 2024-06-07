@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let amount = 2000000;
+    const years = 5;
+    const p = 0.1;
+
+    for (let i = 0; i < years; i++) {
+        amount += amount * p;
+    }
+    console.log(amount)
+</script>
+</body>
+</html>
