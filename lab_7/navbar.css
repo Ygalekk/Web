@@ -1,0 +1,50 @@
+.container:has(>.header) {
+    background-image: url("assets/header-wrapper-bg.png");
+    height: 187px;
+}
+
+.header {
+    width: var(--width);
+}
+
+.navbar {
+    width: 100%;
+    padding: 41px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar__logo {
+    background-image: url("assets/logo-bg.png");
+    background-size: 100% 100%;
+    border-radius: var(--borderRaund);
+    padding: 22px;
+    margin-right: 150px;
+}
+
+.navbar__link {
+    color: white;
+    text-decoration: none;
+    background-size: 100% 100%;
+    border-radius: var(--borderRaund);
+    font-size: 1.1em;
+    display: block;
+}
+
+.navbar__link_selected {
+    background: url(assets/menu-first-bgleft.png) no-repeat left top;
+}
+.navbar__links {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+.navbar__link-text {
+    height: 40px;
+    padding: 8px 20px 8px 20px;
+    display: block;
+}
+.navbar__link_selected>.navbar__link-text {
+    background: url(assets/menu-first-bgright.png) no-repeat right top;
+}

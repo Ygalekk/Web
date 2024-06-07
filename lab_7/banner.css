@@ -1,0 +1,30 @@
+.container:has(>.banner) {
+    background-color: rgb(235,198,198);
+}
+
+.banner {
+    width: var(--width);
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.banner__image {
+    width: 100%;
+    position: relative;
+    border-image: url("assets/banner-border-bg.png");
+    border-radius: var(--borderRaund);
+}
+
+.banner__label {
+    bottom: 0;
+    background-image: url("assets/banner-caption-bg.png");
+    position: absolute;
+    width: 100%;
+    height: 63px;
+    border-bottom-right-radius: var(--borderRaund);
+    border-bottom-left-radius: var(--borderRaund);
+    text-align: center;
+    line-height: 60px;
+}
